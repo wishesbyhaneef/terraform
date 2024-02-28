@@ -10,6 +10,10 @@
     ```
     terraform init -backend-config backend.tfvars
     ```
+    c. S3 backemd setup with tfvars file with auto approve if prompted for input
+    ```
+    terraform init -backend-config backend.tfvars -force-copy
+    ```
 
 2. Terraform Plan
 ```
