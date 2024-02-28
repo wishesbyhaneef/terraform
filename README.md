@@ -1,6 +1,7 @@
 # Terraform
 
 1. Terraform Init
+    
     a. Local Setup
     ```
     terraform init
