@@ -1,0 +1,9 @@
+---
+Description:
+ExecutionProperty:
+    MaxConcurrentRuns: 1
+Command:
+    Name: glueetl
+    PythonVersion: "3"
+GlueVersion: "3.0"
+NumberOfWorkers: 2
